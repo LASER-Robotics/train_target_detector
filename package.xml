@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+
+  <name>train_target_detector</name>
+  <version>0.1.0</version>
+  <description>The train target detector package</description>
+
+  <license>MIT</license>
+
+  <export>
+    <!-- The plugins.xml file defines nodelet as a plugin -->
+  </export>
+
+</package>

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['UAV']
+
+roboflow:
+  workspace: laser-c9clb
+  project: drone_x500_detect
+  version: 4
+  license: MIT
+  url: https://universe.roboflow.com/laser-c9clb/drone_x500_detect/dataset/4

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['-uav-']
+
+roboflow:
+  workspace: uavtarget
+  project: uav_real_detect
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/uavtarget/uav_real_detect/dataset/8
